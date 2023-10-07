@@ -1,0 +1,107 @@
+*{
+    margin: 10px;
+    padding: 10px;
+    text-decoration: navajowhite;
+}
+body{
+    font-family: 'Segoe UI';
+    background-color: whitesmoke;
+    position: relative;
+    color: black;
+}
+h1{
+    font-size: 40px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color:rgb(105, 49, 49);
+    color: #eea5a5;
+
+}
+.content{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+h2{
+    background-color: rgb(105, 49, 49);
+    color: #febcae;
+}
+p {
+    font-size: 15px;
+    text-align: justify;
+}
+img{
+    align-items: center;
+    justify-content: center ;
+    height:200px;
+    width: 250px; 
+    border:100px;
+    display: flex;
+    flex-direction: column;
+}
+.h1{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: row;
+}
+.h1 p{
+    margin-left: 2rem;
+}
+.h2{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: row;
+}
+.h2 p{
+    margin-left: 2rem;
+}
+.h3{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: row;
+}
+.h3 p{
+    margin-left: 2rem;
+}
+.h4{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: row;  
+}
+.h4 p{
+    margin-left: 2rem;
+}
+.h5{
+    margin-top: 3rem;
+    display: flex;
+    flex-direction: row;
+}
+.h5 p{
+    margin-left: 2rem;
+}
+
+hr{
+    background-color: rgb(105, 49, 49);
+}
+.penutup p{
+    font-size: larger;
+}
+.me{
+    font-size: larger;
+    font-weight: pointer;
+    width: 120px;
+    cursor: pointer;
+    background-color:rgb(105, 49, 49);
+    color: rgb(3, 0, 0);
+
+}
+
+footer{
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(233, 199, 196);
+}
+
+footer .footer{
+    margin-left: 50px;
+}
