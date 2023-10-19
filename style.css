@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    background-color: white;
+  }
+  
+  #judul {
+    background-color: orange;
+    color: rgb(255, 233, 152);
+    font-size: 18px;
+    text-align: center;
+    padding: 15px;
+    margin-bottom: 50px;
+    border-bottom: 5px dotted ghostwhite;
+  }
+  
+
+table tr td, table tr th {
+  padding: 5px;
+  border: 1px solid black;
+  border-collapse: collapse;
+
+}
+
+  .media img {
+    display: block;
+    margin: 0 auto;
+    width: 260px;
+    height: 160px;
+    margin-bottom: 50px;
+  }     
+  #video {
+    display: block;
+    margin: 0 auto;
+    width: 560px;
+    height: 460px;
+  }
+  
+  h1{
+    font-size: 25px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color:rgb(192, 205, 0);
+    color: #f6f6f6;
+
+}
+#class {
+    display: block;
+    margin: 0 auto;
+    width: 460px;
+    height: 360px;
+    margin-bottom: 50px;
+  }
+h2{
+  font-size: 25px;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: #fbac02;
+
+}
+  .content {
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 18px;
+  }
+  
+  #closing {
+    margin-bottom: 30px;
+  }
+  
+  .class{
+    width: 360px;
+    height: 200px;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  .content div h3,
+  .content div p {
+    margin-top: 30px;
+    margin-bottom: 30px;
+  }
+  
+  #form {
+    padding: 20px;
+    background-color: rgb(255, 183, 0);
+    color: aliceblue;
+    border: 3px solid rgb(231, 16, 16);
+  }
+
